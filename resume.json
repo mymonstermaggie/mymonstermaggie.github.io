@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Maggie Rosenbusch",
+    "name": "Maggie Rose",
     "label": "Programmer",
     "picture": "",
     "email": "maggie@remote-com.com",
     "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "website": "https://mymonstermaggie.github.io/",
+    "summary": "Maggie has spent the last 5 years working for her father's company RemoteCOM. The company works with probation and parole agencies around the United States to remotely monitor activity on computers, smart-phones and tablets of offenders. Maggie has worked through multiple poisitions in the company, to create a well rounded understanding of how it functions. Her current position is data monitoring and providing guidance to the technical support staff.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
