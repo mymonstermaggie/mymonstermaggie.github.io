@@ -1,3 +1,12 @@
+body {
+  background-color: dimgrey;
+}
+
+h3 {
+  color: white;
+  font-size: 30px;
+  font-family: sans-serif;
+}
 img {
   width: 100%;
   max-width: 200px;
