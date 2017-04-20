@@ -4,15 +4,12 @@
     "label": "Programmer",
     "picture": "",
     "email": "maggie@remote-com.com",
-    "phone": "(912) 555-4321",
     "website": "https://mymonstermaggie.github.io/",
     "summary": "Maggie has spent the last 5 years working for her father's company RemoteCOM. The company works with probation and parole agencies around the United States to remotely monitor activity on computers, smart-phones and tablets of offenders. Maggie has worked through multiple poisitions in the company, to create a well rounded understanding of how it functions. Her current position is data monitoring and providing guidance to the technical support staff.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Round Rock",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
