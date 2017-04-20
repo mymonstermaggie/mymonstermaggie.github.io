@@ -14,41 +14,52 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "neutralthoughts",
+        "username": "mymonstermaggie",
         "url": ""
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "RemoteCOM",
+      "position": "Data Monitoring Specialist",
+      "website": "http://remote-com.com",
+      "startDate": "2016-05-01",
+      "summary": "Remote monitoring of devices.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Monitor Windows",
+        "Monitor Mac",
+        "Monitor Android"
+      ]
+    },
+    {
+      "company": "RemoteCOM",
+      "position": "Technical Support",
+      "website": "http://remote-com.com",
+      "startDate": "2012-02-01",
+      "endDate": "2016-05-01",
+      "summary": "Remote monitoring of devices.",
+      "highlights": [
+        "Support for Windows",
+        "Support for Mac",
+        "Support for Android"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "organization": "Hutto HS",
+      "position": "Web Master",
+      "website": "http://mymonstermaggie.github.io/hhstheatre/",
+      "startDate": "2017-01-01",
+      "summary": "Design, build and maintain a website for the Theatre Department.",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Photo Galleries"
       ]
     }
   ],
