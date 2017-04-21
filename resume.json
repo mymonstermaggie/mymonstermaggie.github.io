@@ -105,12 +105,21 @@
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Photgraphy",
+      "level": "Intermediate",
       "keywords": [
         "Mpeg",
         "MP4",
         "GIF"
+      ]
+    },
+    {
+      "name": "Artist",
+      "level": "Beginner",
+      "keywords": [
+        "Paint",
+        "Sculpt",
+        "Sketch"
       ]
     }
   ],
