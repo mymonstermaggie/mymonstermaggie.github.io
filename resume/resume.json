@@ -65,15 +65,13 @@
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "institution": "Austin Coding Academy",
+      "area": "Full Stack Development",
+      "studyType": "",
+      "startDate": "2017-01-17",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "Html/CSS",
+        "Javascript"
       ]
     }
   ],
