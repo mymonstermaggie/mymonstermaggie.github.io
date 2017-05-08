@@ -2,7 +2,7 @@
   "basics": {
     "name": "Maggie Rose",
     "label": "Programmer",
-    "picture": "",
+    "picture": "../maggie.jpg",
     "email": "maggie@remote-com.com",
     "website": "https://mymonstermaggie.github.io/",
     "summary": "Maggie has spent the last 5 years working for her father's company RemoteCOM. The company works with probation and parole agencies around the United States to remotely monitor activity on computers, smart-phones and tablets of offenders. Maggie has worked through multiple poisitions in the company, to create a well rounded understanding of how it functions. Her current position is data monitoring and providing guidance to the technical support staff.",
@@ -11,135 +11,172 @@
       "countryCode": "US",
       "region": "Texas"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "mymonstermaggie",
-        "url": ""
-      },
-      {
-        "network": "github",
-        "username": "mymonstermaggie",
-        "url": "https://github.com/mymonstermaggie/"
-      }
+    "profiles": [{
+      "network": "github",
+      "username": "mymonstermaggie",
+      "url": "https://github.com/mymonstermaggie/"
+    }]
+  },
+  "work": [{
+    "company": "RemoteCOM",
+    "position": "Data Monitoring Specialist",
+    "website": "http://remote-com.com",
+    "startDate": "2016-05-01",
+    "summary": "Remote monitoring of devices.",
+    "highlights": [
+      "Monitor Windows",
+      "Monitor Mac",
+      "Monitor Android"
     ]
   },
-  "work": [
-    {
-      "company": "RemoteCOM",
-      "position": "Data Monitoring Specialist",
-      "website": "http://remote-com.com",
-      "startDate": "2016-05-01",
-      "summary": "Remote monitoring of devices.",
-      "highlights": [
-        "Monitor Windows",
-        "Monitor Mac",
-        "Monitor Android"
-      ]
-    },
-    {
-      "company": "RemoteCOM",
-      "position": "Technical Support",
-      "website": "http://remote-com.com",
-      "startDate": "2012-02-01",
-      "endDate": "2016-05-01",
-      "summary": "Remote monitoring of devices.",
-      "highlights": [
-        "Support for Windows",
-        "Support for Mac",
-        "Support for Android"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Hutto HS",
-      "position": "Web Master",
-      "website": "http://mymonstermaggie.github.io/hhstheatre/",
-      "startDate": "2017-01-01",
-      "summary": "Design, build and maintain a website for the Theatre Department.",
-      "highlights": [
-        "Photo Galleries"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Austin Coding Academy",
-      "area": "Full Stack Development",
-      "studyType": "",
-      "startDate": "2017-01-17",
-      "courses": [
-        "Html/CSS",
-        "Javascript"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
-    },
-    {
-      "name": "Photgraphy",
-      "level": "Intermediate",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
-      ]
-    },
-    {
-      "name": "Artist",
-      "level": "Beginner",
-      "keywords": [
-        "Paint",
-        "Sculpt",
-        "Sketch"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Brittany Rose",
-      "reference": "Maggie is awesome."
-    }
+  {
+    "company": "RemoteCOM",
+    "position": "Technical Support",
+    "website": "http://remote-com.com",
+    "startDate": "2012-02-01",
+    "endDate": "2016-05-01",
+    "summary": "Remote installation and software support of devices.",
+    "highlights": [
+      "Support for Windows",
+      "Support for Mac",
+      "Support for Android"
+    ]
+  },
+  {
+    "company": "Texas A&M University Corpus Christi",
+    "position": "Performing Arts Center Technician",
+    "website": "http://pac.tamucc.edu/",
+    "startDate": "2011-08-01",
+    "endDate": "2012-02-01",
+    "summary": "Providing technical support for events.",
+    "highlights": [
+      "Sound Board Engineer/Operator",
+      "Light Board Engineer/Operator",
+      "Backstage Crew"
+    ]
+  },
+  {
+    "company": "Harbor Playhouse",
+    "position": "Contract Artist",
+    "website": "https://www.harborplayhouse.com/",
+    "startDate": "2009-08-01",
+    "endDate": "2011-08-01",
+    "summary": "Worked on multiple productions in various roles.",
+    "highlights": [
+      "Contract Director",
+      "Camp Counselor/Acting Coach",
+      "Light Board Engineer/Operator",
+      "Sound Board Operator",
+      "Backstage Crew"
+    ]
+  },
+  {
+  "company": "Hutto High School",
+  "position": "Performing Arts Center Technician",
+  "website": "http://hhs.hipponation.org/",
+  "startDate": "2007-08-01",
+  "endDate": "2009-08-01",
+  "summary": "Providing technical support for events.",
+  "highlights": [
+    "Sound Board Engineer/Operator",
+    "Light Board Engineer/Operator",
+    "Stage Manager",
+    "Backstage Crew/Event Support"
   ]
+}
+],
+"volunteer": [
+  {
+    "organization": "Hutto HS",
+    "position": "Web Master",
+    "website": "http://mymonstermaggie.github.io/hhstheatre/",
+    "startDate": "2017-01-01",
+    "summary": "Design, build and maintain a website for the Theatre Department.",
+    "highlights": [
+      "Photo Galleries"
+    ]
+  }
+],
+"education": [
+  {
+    "institution": "Austin Coding Academy",
+    "area": "Full Stack Development",
+    "studyType": "",
+    "startDate": "2017-01-17",
+    "courses": [
+      "Html/CSS",
+      "Javascript"
+    ]
+  }
+],
+"awards": [
+  {
+    "title": "Digital Compression Pioneer Award",
+    "date": "2014-11-01",
+    "awarder": "Techcrunch",
+    "summary": "There is no spoon."
+  }
+],
+"skills": [
+  {
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  },
+  {
+    "name": "Seamstress",
+    "level": "Master",
+    "keywords": [
+      "Machine Sew",
+      "Hand Stich",
+      "Design",
+      "Modify Patterns",
+      "Alterations",
+      "Measurements/Fittings"
+    ]
+  },
+  {
+    "name": "Photgraphy",
+    "level": "Intermediate",
+    "keywords": [
+      "JPG",
+      "MP4",
+      "GIF"
+    ]
+  },
+  {
+    "name": "Artist",
+    "level": "Intermediate",
+    "keywords": [
+      "Paint",
+      "Sculpt",
+      "Sketch"
+    ]
+  }
+],
+"languages": [
+  {
+    "language": "English",
+    "fluency": "Native speaker"
+  }
+],
+"interests": [
+  {
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }
+],
+"references": [
+  {
+    "name": "Brittany Rose",
+    "reference": "Maggie is awesome."
+  }
+]
 }
