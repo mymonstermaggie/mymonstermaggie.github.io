@@ -7,14 +7,29 @@ body {
   background-size: cover;
 }
 
+#header {
+  text-align: center;
+}
+
 h1 {
-  margin-top: 100px;
-  color: hotpink;
-  font-size: 100px;
+  padding: 50px;
+  font-size: 75px;
   font-family: fantasy;
+  background: rgb(125, 127, 127); /* Fallback */
+  background: rgba(125, 127, 127, 0.7);
+}
+
+nav {
+  font-size: 25px;
+  border: 3px solid black;
+  margin: 50px;
+  background: rgb(125, 127, 127); /* Fallback */
+  background: rgba(125, 127, 127, 0.7);
+  border-radius: 10px;
+  padding: 10px;
 }
 
 a {
-  color: hotpink;
-  font-size: 25px;
+  color: black;
+  font-style: normal;
 }
