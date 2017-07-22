@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Maggie Rose",
+    "name": "Maggie Rosenbusch",
     "label": "Programmer",
-    "picture": "../maggie.jpg",
+    "picture": "../me.jpeg",
     "email": "maggie@remote-com.com",
     "website": "https://mymonstermaggie.github.io/",
-    "summary": "Maggie has spent the last 5 years working for her father's company RemoteCOM. The company works with probation and parole agencies around the United States to remotely monitor activity on computers, smart-phones and tablets of offenders. Maggie has worked through multiple poisitions in the company, to create a well rounded understanding of how it functions. Her current position is data monitoring and providing guidance to the technical support staff.",
+    "summary": "Maggie currently works for her father's company RemoteCOM. The company works with probation and parole agencies around the United States to remotely monitor activity on computers, smart-phones and tablets of offenders. Maggie has worked through multiple poisitions in the company, to create a well rounded understanding of how it functions. Her current position is data monitoring and providing guidance to the technical support staff.",
     "location": {
       "city": "Round Rock",
       "countryCode": "US",
@@ -87,6 +87,13 @@
 ],
 "volunteer": [
   {
+    "organization": "Hutto Arts Today",
+    "position": "Web Master",
+    "website": "http://huttoartstoday.com",
+    "startDate": "2017-07-15",
+    "summary": "Design, build and maintain website."
+  },
+  {
     "organization": "Hutto HS",
     "position": "Web Master",
     "website": "http://mymonstermaggie.github.io/hhstheatre/",
@@ -104,8 +111,34 @@
     "studyType": "",
     "startDate": "2017-01-17",
     "courses": [
+      "Github",
       "Html/CSS",
-      "Javascript"
+      "Javascript",
+      "React"
+    ]
+  },
+  {
+    "institution": "Texas A&M University Corpus Christi",
+    "area": "Theatre",
+    "studyType": "",
+    "startDate": "2009-08-01",
+    "endDate": "2012-02-01",
+    "courses": [
+      "Directing",
+      "Acting",
+      "Technical"
+    ]
+  },
+  {
+    "institution": "Hutto High School",
+    "area": "Theatre",
+    "studyType": "",
+    "startDate": "2005-08-01",
+    "endDate": "2009-05-01",
+    "courses": [
+      "Theatre",
+      "Photgraphy",
+      "Dance"
     ]
   }
 ],
@@ -122,9 +155,11 @@
     "name": "Web Development",
     "level": "Master",
     "keywords": [
+      "Github",
       "HTML",
       "CSS",
-      "Javascript"
+      "Javascript",
+      "React"
     ]
   },
   {
@@ -143,9 +178,11 @@
     "name": "Photgraphy",
     "level": "Intermediate",
     "keywords": [
-      "JPG",
-      "MP4",
-      "GIF"
+      "Portrait",
+      "Headshots",
+      "Performance Arts",
+      "Sports",
+      "Events"
     ]
   },
   {
@@ -154,7 +191,8 @@
     "keywords": [
       "Paint",
       "Sculpt",
-      "Sketch"
+      "Sketch",
+      "Crafts"
     ]
   }
 ],
@@ -164,19 +202,10 @@
     "fluency": "Native speaker"
   }
 ],
-"interests": [
-  {
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }
-],
 "references": [
   {
-    "name": "Brittany Rose",
-    "reference": "Maggie is awesome."
+    "name": "Brittany Rosenbusch",
+    "reference": ""
   }
 ]
 }
